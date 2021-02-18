@@ -1,4 +1,4 @@
-# Thai Tacos
+# Thai Tacos :taco:
 
 ## About 
 
