@@ -19,4 +19,4 @@ React JS
 ReactStrap
 
 ### Screenshots
-![alt tag](https://imgur.com/Q6hgirQ "ThaiTacos")
+![alt tag]screenshot.png "ThaiTacos")
