@@ -14,8 +14,11 @@ This is a restaurant page built for Mint Brown's Thai Taco company.
 HTML               
 CSS                
 Bootstrap
+<br>
 JS
+<br>
 React JS
+<br>
 ReactStrap
 
 ### Screenshot
