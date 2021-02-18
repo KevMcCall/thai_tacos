@@ -18,5 +18,5 @@ JS
 React JS
 ReactStrap
 
-### Screenshots
+### Screenshot
 ![](screenshot.png "ThaiTacos")
