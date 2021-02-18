@@ -19,4 +19,4 @@ React JS
 ReactStrap
 
 ### Screenshots
-![alt tag](https://drive.google.com/file/d/1S855c8dXUQ24nh8LvgO43Hf1hXbM0CP8/view?usp=sharing "ThaiTacos")
+![alt tag](https://imgur.com/Q6hgirQ "ThaiTacos")
