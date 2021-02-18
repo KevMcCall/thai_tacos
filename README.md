@@ -19,4 +19,4 @@ React JS
 ReactStrap
 
 ### Screenshots
-![alt tag]screenshot.png "ThaiTacos")
+![](screenshot.png "ThaiTacos")
